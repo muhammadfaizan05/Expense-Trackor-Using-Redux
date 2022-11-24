@@ -1,0 +1,31 @@
+.description{
+   text-align: left;
+}
+.mainhistory{
+    width: 30%;
+    margin: auto;
+}
+table{
+    width: 100%;
+    margin: auto;
+}
+
+.mousein{
+    background-color: skyblue;
+    cursor: pointer;
+}
+.hidden{
+    display: none;
+}
+.tablereow{
+   
+    font-size: large;
+   
+}
+.icon{
+   border: none;
+}
+.icon:hover{
+    cursor: pointer;
+    background-color: rgb(175, 97, 97);
+}
